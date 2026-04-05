@@ -38,4 +38,4 @@ Each `.luau` file is standalone code you can read. The systems demonstrate:
 
 ## Contact
 
-Discord: thuanson# Roblox-Systems-Portfolio
+Discord: thuanson
